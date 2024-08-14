@@ -36,4 +36,4 @@ Feel free to fork the repository, make changes, and create pull requests. If you
 
 ## Contact
 
-For any inquiries, reach out to me at prasishrd@gmail.com.
+For any inquiries, reach out to me at prasunshiwakoti@gmail.com.
